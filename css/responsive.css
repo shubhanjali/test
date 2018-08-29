@@ -1,0 +1,135 @@
+@media (max-width: 508px) {
+  .open-menu-icon {font-size: 25px;cursor: pointer;margin-top: 0;margin-right: 6px;}
+  .margin-right-only-desktop{margin-right: 0;}
+  .margin-left-auto-mobile{margin-left: 15px;;}.navbar-brand { margin-right:0.5rem;}
+  .header {
+    display: none;
+  }
+  .visible-xs-12 {
+    display: block;
+    padding: 10px 6px;
+  }
+  .scit-logo {
+    height: 30px;
+  }
+  .itelflogo {height: 42px; margin-top: -5px;}
+  .hero__wrapper {
+    padding: 0px 0 10px;
+  }
+  .hero__title {
+    font-size: 18px;
+  }
+  .hero__wrapper .countdown__module {
+    margin: 18px auto;
+  }
+  .sproutit-logo-height {
+    height: 113px;
+  }
+  .vista-logo-height {
+    height: 108px;
+  }
+  .white-box-padding {
+    padding: 18px 10px;
+}
+
+.present {
+    margin: 0px 0px 10px;
+    font-size: 22px;
+    display: block;
+}
+
+.m1-txt1 {
+    font-size: 18px;
+    margin: 21px 0 22px;
+}
+
+.icon-bar a {
+    padding: 7px;
+    font-size: 14px;
+}
+.how-countdown {
+    background-color: #01014a;
+    border-radius: 7px;
+    margin: 0px 12px 18px 15px;
+}
+.size2 {
+    width: 80px;
+    height: 90px;
+}
+.d-none-mobile{display: none;}
+.navbar {padding: .2rem 0rem 0rem;}
+.section-intro-comingsoon {
+    margin: 32px 0px 0px;
+    padding: 48px 24px 46px;
+}
+.about{padding:23px;}
+.about h3{font-size: 27px;}
+.footer {padding: 20px 0px;} .footer h5{font-size: 16px;}
+.overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 0px;
+    right: 11px;
+  }
+  .display-only-phone-block{display:block;}
+  .display-only-phone-inline{display:inline;}
+  .gallery_full_width_images_area {
+	padding-left: 0px !important;
+}
+.single_gallery_item {
+    width: 100%;
+}
+.single_gallery_content  img {
+    margin-left: 12%;
+    padding: 10px 26px;
+    width: 310px;
+    height: 219px;
+}
+}
+
+.about{padding:100px 0px;}
+.about h3{font-size: 27px;}
+.about_image {
+     /*height: 200px;
+     width:200px;*/
+        margin-top: 0px;
+    }
+
+
+/*
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  
+    .gallery_menu .portfolio-menu button {
+        padding: 5px;
+    }
+    .single_gallery_item {
+        width: 100%;
+    }
+
+   
+}
+
+
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .single_gallery_item {
+        width: 50%;
+    }
+}*/
+
+
+
+    @media only screen and (max-device-width: 992px) {
+    .bg-img1 {
+        background-attachment: scroll;
+    
+}
+
+@media (min-width:576px){
+    .hidden-sm-up{display:none!important}
+    } 
+    .display-only-phone{display: block;}
+    }
+
+    
